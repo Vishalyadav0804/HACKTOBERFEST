@@ -3,4 +3,4 @@
 3. [kritika kanojia](https://github.com/kritikakanojia1526)
 4. [Shivam Sharma](https://github.com/shiv21081999)
 5. [Shivam Rastogi](https://github.com/hogmogmogi)
-6. [Vishal Yadav].(https://github.com/Vishalyadav0804)
+6. [Vishal Yadav](https://github.com/Vishalyadav0804)
